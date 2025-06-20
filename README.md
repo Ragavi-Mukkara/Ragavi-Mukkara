@@ -44,15 +44,7 @@
 
 ---
 
-### 🏆 GitHub Stats (Optional)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ragavi-Mukkara&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
