@@ -13,8 +13,6 @@
 
 ### 🎨 Tools & Technologies I Use
 
-### 🧰 Tools & Technologies I Use
-
 <p align="left">
   <a href="https://figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
