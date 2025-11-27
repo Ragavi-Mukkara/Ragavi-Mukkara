@@ -4,9 +4,7 @@
 ---
 
 ### 🖌️ About Me
-- 🔭 I’m currently working on a **Breast Cancer Awareness Web Project**
-- 🌱 I’m learning **Figma**, **Adobe XD**, **Webflow**, and **Framer**
-- 🎨 I love designing user-centric interfaces and smooth interactions
+- Passionate and research-oriented Computer Science student with a basic foundation in Java, Python, UI/UX design, AI, IoT, and software development. Eager to contribute to user-centred, aesthetically impactful digital solutions by leveraging tools such as Figma and Canva, while applying innovative thinking to solve real-world challenges in smart agriculture, intelligent mobility, and automation systems.
 - 📫 Reach me at: [mukkararagavi@gmail.com](mailto:mukkararagavi@gmail.com)
 
 ---
